@@ -1,0 +1,34 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cornflowerblue;
+    margin: auto;
+    padding: 40px;
+    border: solid;
+}
+div{
+    background-color: blueviolet;
+    margin: auto;
+    padding: 30px;
+    border: solid;
+    width: 200px;
+    height: 170px;
+}
+.num1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: coral;
+    margin: 40px;
+    padding: 30px;
+    border: solid;
+    text-align: center;
+}
+.num2{
+    background-color: cyan;
+    margin: 40px;
+    padding: 30px;
+    border: solid;
+    text-align: center;
+}
+footer{
+    background-color: chartreuse;
+
+}
